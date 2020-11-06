@@ -1,0 +1,11 @@
+name: jl-dp
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - conda-forge::bokeh
+  - conda-forge::jupyterlab==3.0.0rc7
+  - conda-forge::nodejs
+  - conda-forge::yarn
