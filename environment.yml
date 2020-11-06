@@ -6,6 +6,6 @@ channels:
 
 dependencies:
   - conda-forge::bokeh
-  - conda-forge::jupyterlab==3.0.0rc7
+  - conda-forge/label/jupyterlab_rc::jupyterlab
   - conda-forge::nodejs
   - conda-forge::yarn
